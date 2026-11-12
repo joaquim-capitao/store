@@ -1,4 +1,3 @@
-
 # Online Store
 (A funcionar até dia 30 de novembro de 2026)  
 

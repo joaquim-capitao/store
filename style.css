@@ -1,21 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
 /* ==========================================================================
-   VARIÁVEIS GLOBAIS (Tema Claro para Leitura)
+   VARIÁVEIS GLOBAIS (Tema Loja Online / E-commerce Mobile-First)
    ========================================================================== */
 :root {
-  --bg-main: #f8fafc;        /* Fundo claro e suave, ideal para leitura prolongada */
-  --bg-card: #edf2f7;        /* Fundo ligeiramente contrastante para cartões ou blocos */
-  --text-main: #0f172a;      /* Texto principal em azul escuro profundo */
-  --text-muted: #334155;     /* Subtítulos, metadados e citações em azul escuro suave */
-  --accent: #1d4ed8;         /* Links e destaques em azul vivo */
-  --accent-hover: #1e40af;   /* Variação para estados hover */
-  --border-color: #cbd5e1;   /* Linhas divisórias subtis */
+  --bg-main: #ffffff;        /* Branco puro para destacar fotografias de produtos */
+  --bg-card: #f4f4f5;        /* Cinzento neutro muito suave para cartões e secções */
+  --text-main: #18181b;      /* Preto carvão de alto contraste para leitura rápida */
+  --text-muted: #52525b;     /* Cinzento médio para descrições secundárias e metadados */
+  
+  /* Cores de Ação e Conversão */
+  --accent: #059669;         /* Verde-esmeralda (confiança, botões de compra e links) */
+  --accent-hover: #047857;   /* Verde mais escuro para interação */
+  --promo-color: #e11d48;    /* Vermelho-carmim para descontos, alertas ou etiquetas */
+  --border-color: #e4e4e7;   /* Linhas divisórias leves e discretas */
   
   /* Tipografia */
   --font-ubuntu: "Ubuntu", system-ui, -apple-system, sans-serif;
   
   /* Espaçamento e Largura */
-  --max-width: 680px;        /* Largura ideal para leitura (entre 60-75 caracteres por linha) */
+  --max-width: 720px;        /* Ligeiramente mais largo para acomodar grelhas de produtos */
 }
 
 /* ==========================================================================
@@ -25,11 +29,12 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  -webkit-tap-highlight-color: transparent; /* Remove o flash azul ao tocar no telemóvel */
 }
 
 html {
-  font-size: 18px;           /* Tamanho da fonte principal em PC */
-  line-height: 1.6;          /* Excelente legibilidade para a fonte Ubuntu */
+  font-size: 16px;           /* Base padrão de 16px, ideal para interfaces de loja no telemóvel */
+  line-height: 1.5;
   scroll-behavior: smooth;
 }
 
@@ -40,7 +45,7 @@ body {
   font-weight: 400;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  padding: 1.5rem 1.2rem;    /* Margem confortável para respiração do layout */
+  padding: 1rem;             /* Margens mais compactas para aproveitar o ecrã do telemóvel */
 }
 
 /* ==========================================================================
@@ -49,130 +54,149 @@ body {
 .container {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 0 0.5rem;
+  padding: 0 0.25rem;
 }
 
-/* Header / Título da Página */
+/* Header / Cabeçalho da Loja */
 header {
-  margin-bottom: 3.5rem;
+  margin-bottom: 2rem;
   border-bottom: 1px solid var(--border-color);
-  padding-bottom: 1.5rem;
+  padding-bottom: 1rem;
 }
 
 /* ==========================================================================
-   TIPOGRAFIA (Estilo Clean & Moderno)
+   TIPOGRAFIA (Foco em Escaneabilidade)
    ========================================================================== */
 h1, h2, h3, h4 {
-  color: #0c2340;            /* Azul escuro contrastante e encorpado para títulos */
+  color: var(--text-main);
   font-family: var(--font-ubuntu);
   font-weight: 700;
-  line-height: 1.25;
-  margin-bottom: 1.25rem;
-  margin-top: 1.5rem;
-  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin-bottom: 0.75rem;
+  margin-top: 1.25rem;
+  letter-spacing: -0.02em;
 }
 
 h1 {
-  font-size: 2.4rem;
-  font-weight: 700;
+  font-size: 1.85rem;
 }
 
 h2 {
-  font-size: 1.7rem;
-  font-weight: 500;          /* Peso ligeiramente menor para elegância */
+  font-size: 1.4rem;
+  font-weight: 700;
   border-left: 4px solid var(--accent);
-  padding-left: 0.75rem;
+  padding-left: 0.65rem;
 }
 
 p {
-  margin-bottom: 1.5rem;
-  font-weight: 400;          /* A variante Light da Ubuntu funciona muito bem em ecrãs escuros */
-  text-align: justify; 
-  line-height: 1.6;
+  margin-bottom: 1.15rem;
+  font-weight: 400;
+  text-align: left;          /* Alinhamento à esquerda facilita a leitura rápida em lojas */
+  line-height: 1.55;
+  color: var(--text-muted);
 }
 
 .meta {
-  font-size: 0.8rem;
-  font-weight: 500;
-  color: var(--text-muted);
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--accent);
   text-transform: uppercase;
-  letter-spacing: 0.08em;
+  letter-spacing: 0.06em;
 }
 
 /* ==========================================================================
-   ELEMENTOS DE TEXTO E LINKS
+   ELEMENTOS DE TEXTO, LINKS E COMPONENTES DE LOJA
    ========================================================================== */
 a {
   color: var(--accent);
-  text-decoration: none;     /* Estilo moderno prefere links sem sublinhado por padrão */
-  border-bottom: 1px solid transparent;
-  transition: all 0.2s ease;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s ease, background-color 0.2s ease;
 }
 
-a:hover {
+a:hover, a:active {
   color: var(--accent-hover);
-  border-bottom-color: var(--accent-hover);
+  text-decoration: underline;
 }
 
-/* Citações em Bloco (Blockquotes) */
+/* Destaques e Preços */
+strong {
+  color: var(--text-main);
+  font-weight: 700;
+}
+
+/* Classe opcional para preços */
+.price {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: var(--text-main);
+  display: inline-block;
+  margin: 0.5rem 0;
+}
+
+/* Classe opcional para etiquetas de promoção/stock */
+.badge {
+  display: inline-block;
+  background-color: var(--promo-color);
+  color: #ffffff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 4px;
+  letter-spacing: 0.05em;
+}
+
+/* Citações / Avaliações de Clientes (Reviews) */
 blockquote {
-  margin: 2rem 0;
-  padding: 1rem 1.5rem;
-  background-color: var(--bg-card); /* Destaca a citação num bloco moderno */
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  background-color: var(--bg-card);
   border-left: 4px solid var(--accent);
-  border-radius: 0 8px 8px 0;
-  font-style: italic;
-  color: var(--text-muted);
+  border-radius: 8px;
+  font-style: normal;        /* Avaliações de clientes ficam mais legíveis sem itálico */
+  color: var(--text-main);
 }
 
 blockquote p {
-  margin-bottom: 0;          /* Remove margem extra dentro do bloco */
+  margin-bottom: 0;
+  color: var(--text-main);
 }
 
-/* Imagens */
+/* Imagens de Produto */
 img {
   max-width: 100%;
   height: auto;
   display: block;
-  margin: 2rem auto;
-  border-radius: 12px;        /* Cantos arredondados */
-  border: 3px solid var(--border-color); /* Protege os limites de imagens escuras */
-}
-
-/* Elementos de Destaque */
-strong {
-  color: #020617;            /* Azul quase negro para ênfase máxima */
-  font-weight: 700;
+  margin: 1.25rem auto;
+  border-radius: 10px;
+  border: 1px solid var(--border-color); /* Borda fina e limpa para não competir com o produto */
+  background-color: var(--bg-card);      /* Fundo suave enquanto a imagem carrega */
 }
 
 hr {
   border: 0;
-  border-top: 1px solid var(--border-color); /* Linha sólida e fina em vez de tracejada */
-  margin: 3rem 0;
+  border-top: 1px solid var(--border-color);
+  margin: 2rem 0;
 }
 
 /* ==========================================================================
-   ADAPTAÇÃO PARA SMARTPHONES (Media Queries)
+   ADAPTAÇÃO PARA ECRÃS MAIORES (Desktop - Abordagem Mobile-First)
    ========================================================================== */
-@media (max-width: 640px) {
+@media (min-width: 641px) {
   html {
-    font-size: 18px;         /* Ajuste da escala de fonte para ecrãs pequenos */
+    font-size: 17px;
   }
 
   body {
-    padding: 1rem 1rem;
+    padding: 2rem 1.5rem;
   }
 
   h1 {
-    font-size: 2rem;
+    font-size: 2.2rem;
   }
 
   h2 {
-    font-size: 1.5rem;
+    font-size: 1.6rem;
   }
-
-   p {
-  text-align: left;        /* O texto fica alinhado à esquerda no telemóvel */
-  line-height: 1.6;
-}
 }

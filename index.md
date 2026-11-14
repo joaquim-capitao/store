@@ -10,18 +10,18 @@ email: joaquimcapitao@gmail.com
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/TV1.jpg)
 
-Preço: 200 euros.
+Preço: 200 euros.  
 
-Smart TV
-4k Ultra HD
-Android
-HDMI
-Ethernet
-USB
-Ok Google
+Smart TV  
+4k Ultra HD  
+Android  
+HDMI  
+Ethernet  
+USB  
+Ok Google  
 
-A funcionar bem, sem riscos nem defeitos.
-(Comprei na Radio Popular por 300 euros)
+A funcionar bem, sem riscos nem defeitos.  
+(Comprei na Radio Popular por 300 euros)  
 
 ---
 
@@ -41,12 +41,12 @@ A funcionar bem, sem riscos nem defeitos.
 
 ![](https://i.ibb.co/SwsYV40v/IMG-20260803-225815.jpg)
 
-100 euros.
+100 euros.  
 
-Sofá usado.
-Tecido.
-Bom estado.
-Dois lugares.
+Sofá usado.  
+Tecido.  
+Bom estado.  
+Dois lugares.  
 
 
 

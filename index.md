@@ -29,7 +29,7 @@ A funcionar bem, sem riscos nem defeitos.
 
 ![](https://i.ibb.co/FbxXsMfW/IMG-20191011-145934.jpg)
 
-**3.000 euros** (negociáveis)  
+**Preço: 3.000 euros** (negociáveis)  
 
 Marca: Ford  
 Modelo: Fiesta  
@@ -58,7 +58,7 @@ Airbag
 
 ![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
 
-**25 euros**
+**Preço: 25 euros**
 
 Impressão, cópia e digitalização  
 Imprime Frente e Verso  
@@ -82,7 +82,7 @@ Inclui:
 
 ![](https://i.ibb.co/SwsYV40v/IMG-20260803-225815.jpg)
 
-100 euros.  
+**Preço: 100 euros**  
 
 Sofá usado.  
 Tecido.  

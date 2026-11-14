@@ -27,9 +27,38 @@ A funcionar bem, sem riscos nem defeitos.
 
 ### Automóvel
 
+![](https://i.ibb.co/FbxXsMfW/IMG-20191011-145934.jpg)
+
+**3.000 euros** (negociáveis)  
+
+Marca: Ford  
+Modelo: Fiesta  
+Ano: 2006  
+Quilometragem: 165.000 km  
+Inspecção: Dezembro/2026   
+Cilindrada: 1242 m3  
+Potência: 55 kW  
+Pneumáticos: 195/50 R15  
+Combustível: Gasolina  
+Portas: 5  
+Lugares: 5  
+
+Extras:  
+Jantes especiais  
+Fecho centralizado  
+Vidros eléctricos  
+Direção assistida  
+Airbag  
+
+
+
+
 ---
 
 ### Impressora
+
+
+
 
 ---
 

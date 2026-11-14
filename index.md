@@ -57,7 +57,18 @@ Airbag
 
 ### Impressora
 
+![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
 
+Impressão, cópia e digitalização  
+Imprime Frente e Verso  
+Jacto de tinta  
+Ecrã LCD  
+
+Inclui:
+2 tinteiros Black XL (Novos)  
+1 tinteiro Cian (Novo)  
+1 Tinteiro Amarelo (Novo)  
+1 Tinteiro Magenta (Novo)  
 
 
 ---

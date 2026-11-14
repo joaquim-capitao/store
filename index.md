@@ -67,7 +67,7 @@ Ecrã LCD
 
 Inclui:
 2 tinteiros Black XL (Novos)  
-1 tinteiro Cian (Novo)  
+1 tinteiro Ciano (Novo)  
 1 Tinteiro Amarelo (Novo)  
 1 Tinteiro Magenta (Novo)  
 

@@ -58,14 +58,15 @@ Airbag
 
 ![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
 
-**Preço: 25 euros**
+**Preço: 25 euros**  
 
+Epson XP-3205  
 Impressão, cópia e digitalização  
 Imprime Frente e Verso  
 Jacto de tinta  
 Ecrã LCD  
 
-Inclui:
+Inclui:  
 2 tinteiros Black XL (Novos)  
 1 tinteiro Ciano (Novo)  
 1 Tinteiro Amarelo (Novo)  
@@ -91,7 +92,7 @@ Dois lugares.
 
 
 
----
+---  
 
 ## Bicicleta Estática
 

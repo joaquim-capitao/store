@@ -10,7 +10,7 @@ email: joaquimcapitao@gmail.com
 
 ![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/TV1.jpg)
 
-Preço: 200 euros.  
+**Preço: 200 euros.**  
 
 Smart TV  
 4k Ultra HD  

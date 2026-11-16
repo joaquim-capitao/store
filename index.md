@@ -1,5 +1,7 @@
-# Online Store
-(A funcionar até dia 30 de novembro de 2026)  
+
+![](https://i.ibb.co/QFnwNzqC/tralhas.jpg)
+
+
 
 Para adquirir algum destes itens, pode contactar-me por telefone, whatsapp ou email.  
 Tel/whatsapp: 960 070 604  

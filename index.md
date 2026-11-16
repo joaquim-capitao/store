@@ -1,10 +1,28 @@
 
 ![](https://i.ibb.co/4ZcLNGMG/tralhas.jpg)
 
+---
+## Máquina de costura portátil
 
-Para adquirir algum destes itens, pode contactar-me por telefone, whatsapp ou email.  
-Tel/whatsapp: 960 070 604  
-email: joaquimcapitao@gmail.com  
+![](https://i.ibb.co/rKN3q159/IMG-20261116-111946.jpg)
+
+**Preço:**
+
+
+---
+## Mala em pele
+
+![](https://i.ibb.co/BKZtK1PC/IMG-20261116-112053.jpg)
+
+**Preço: 15 euros**
+
+---
+## Colunas para PC
+
+![](https://i.ibb.co/Jjtyfzwd/IMG-20261116-112104.jpg)
+
+**Preço: 5 euros**
+
 
 ---
 ## Televisão
@@ -105,6 +123,13 @@ Está à venda na [Worten](https://www.worten.pt/produtos/bicicleta-estatica-pri
 Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70 euros.
 
 
+---
+
+---
+
+Para adquirir algum destes itens, pode contactar-me por telefone, whatsapp ou email.  
+Tel/whatsapp: 960 070 604  
+email: joaquimcapitao@gmail.com  
 
 
 

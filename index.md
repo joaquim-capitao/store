@@ -2,11 +2,17 @@
 ![](https://i.ibb.co/8CBjsNn/9t.jpg)
 
 ---
-## Máquina de costura portátil
 
-![](https://i.ibb.co/vCzCJCB1/IMG-20261116-111946-1.jpg)
+## Aspirador 
 
-**Preço:**
+![](https://www.worten.pt/i/977591a9910447222479ac0632146ce9bd58fa54)
+
+**Preço: 80 euros**
+
+(À venda na [Worten](https://www.worten.pt/produtos/aspirador-de-agua-ufesa-ap8110-4351229) por 159,99 euros)
+
+
+---
 
 
 ---
@@ -94,10 +100,6 @@ Inclui:
 
 ---
 
-## Aspirador 
-
----
-
 ## Sofá 
 
 ![](https://i.ibb.co/SwsYV40v/IMG-20260803-225815.jpg)
@@ -122,8 +124,6 @@ Dois lugares.
 Está à venda na [Worten](https://www.worten.pt/produtos/bicicleta-estatica-prixton-comfort-pro-bf200-azul-dobravel-7417496) por 155,99 euros.  
 Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70 euros.
 
-
----
 
 ---
 

@@ -25,7 +25,7 @@
 
 
 ---
-## Televisão
+## Televisão (43" / 108 cm)
 
 ![](https://i.ibb.co/ccBYp6G4/Whats-App-Image-2026-11-16-at-12-49-37.jpg)
 

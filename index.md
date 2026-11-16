@@ -13,6 +13,28 @@
 (À venda na [Worten](https://www.worten.pt/produtos/aspirador-de-agua-ufesa-ap8110-4351229) por 159,99 euros)
 
 ---
+
+## Impressora
+
+![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
+
+**Preço: 25 euros**    
+(Garantia de 1 ano!)
+
+Epson XP-3205  
+Impressão, cópia e digitalização  
+Imprime Frente e Verso  
+Jacto de tinta  
+Ecrã LCD  
+
+Inclui:  
+2 tinteiros Black XL (Novos)  
+1 tinteiro Ciano (Novo)  
+1 Tinteiro Amarelo (Novo)  
+1 Tinteiro Magenta (Novo)  
+
+
+---
 ## Mala em pele
 
 ![](https://i.ibb.co/hFPMkdCs/IMG-20261116-112053-1.jpg)
@@ -68,29 +90,6 @@ Dois lugares.
 
 Está à venda na [Worten](https://www.worten.pt/produtos/bicicleta-estatica-prixton-comfort-pro-bf200-azul-dobravel-7417496) por 155,99 euros.  
 Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70 euros.
-
----
-
-## Impressora
-
-![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
-
-**Preço: 25 euros**    
-(Garantia de 1 ano!)
-
-Epson XP-3205  
-Impressão, cópia e digitalização  
-Imprime Frente e Verso  
-Jacto de tinta  
-Ecrã LCD  
-
-Inclui:  
-2 tinteiros Black XL (Novos)  
-1 tinteiro Ciano (Novo)  
-1 Tinteiro Amarelo (Novo)  
-1 Tinteiro Magenta (Novo)  
-
-
 
 ---
 

@@ -3,7 +3,7 @@
 
 ---
 
-## Aspirador 
+## Aspirador UFESA
 
 ![](https://www.worten.pt/i/977591a9910447222479ac0632146ce9bd58fa54)
 
@@ -13,7 +13,7 @@
 
 ---
 
-## Impressora
+## Impressora EPSON
 
 ![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
 
@@ -48,7 +48,7 @@ Inclui:
 **Preço: 5 euros**
 
 ---
-## Televisão (43" / 108 cm)
+## Televisão Toshiba (43" / 108 cm)
 
 ![](https://i.ibb.co/ccBYp6G4/Whats-App-Image-2026-11-16-at-12-49-37.jpg)
 

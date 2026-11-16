@@ -1,5 +1,5 @@
 
-![](https://i.ibb.co/4ZcLNGMG/tralhas.jpg)
+![](https://i.ibb.co/8CBjsNn/9t.jpg)
 
 ---
 ## Máquina de costura portátil

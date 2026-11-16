@@ -2,6 +2,7 @@
 ![](https://i.ibb.co/8CBjsNn/9t.jpg)
 
 ---
+---
 
 ## Aspirador 
 
@@ -10,10 +11,6 @@
 **Preço: 80 euros**
 
 (À venda na [Worten](https://www.worten.pt/produtos/aspirador-de-agua-ufesa-ap8110-4351229) por 159,99 euros)
-
-
----
-
 
 ---
 ## Mala em pele
@@ -28,7 +25,6 @@
 ![](https://i.ibb.co/QF7PPCTz/IMG-20261116-112104-1.jpg)
 
 **Preço: 5 euros**
-
 
 ---
 ## Televisão (43" / 108 cm)
@@ -47,6 +43,52 @@ Ok Google
 
 A funcionar bem, sem riscos nem defeitos.  
 (Comprei na Radio Popular por 300 euros)  
+
+---
+
+## Sofá 
+
+![](https://i.ibb.co/SwsYV40v/IMG-20260803-225815.jpg)
+
+**Preço: 100 euros**  
+
+Sofá usado.  
+Tecido.  
+Bom estado.  
+Dois lugares.  
+
+
+---  
+
+## Bicicleta Estática
+
+![](https://www.worten.pt/i/1a5e90fe94dc3de866e3cf1a4b9f5025b2b98665)
+
+**Preço: 70 euros**  
+
+Está à venda na [Worten](https://www.worten.pt/produtos/bicicleta-estatica-prixton-comfort-pro-bf200-azul-dobravel-7417496) por 155,99 euros.  
+Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70 euros.
+
+---
+
+## Impressora
+
+![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
+
+**Preço: 25 euros**  
+
+Epson XP-3205  
+Impressão, cópia e digitalização  
+Imprime Frente e Verso  
+Jacto de tinta  
+Ecrã LCD  
+
+Inclui:  
+2 tinteiros Black XL (Novos)  
+1 tinteiro Ciano (Novo)  
+1 Tinteiro Amarelo (Novo)  
+1 Tinteiro Magenta (Novo)  
+
 
 ---
 
@@ -77,52 +119,7 @@ Airbag
 
 
 
----
 
-## Impressora
-
-![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
-
-**Preço: 25 euros**  
-
-Epson XP-3205  
-Impressão, cópia e digitalização  
-Imprime Frente e Verso  
-Jacto de tinta  
-Ecrã LCD  
-
-Inclui:  
-2 tinteiros Black XL (Novos)  
-1 tinteiro Ciano (Novo)  
-1 Tinteiro Amarelo (Novo)  
-1 Tinteiro Magenta (Novo)  
-
-
----
-
-## Sofá 
-
-![](https://i.ibb.co/SwsYV40v/IMG-20260803-225815.jpg)
-
-**Preço: 100 euros**  
-
-Sofá usado.  
-Tecido.  
-Bom estado.  
-Dois lugares.  
-
-
-
----  
-
-## Bicicleta Estática
-
-![](https://www.worten.pt/i/1a5e90fe94dc3de866e3cf1a4b9f5025b2b98665)
-
-**Preço: 70 euros**  
-
-Está à venda na [Worten](https://www.worten.pt/produtos/bicicleta-estatica-prixton-comfort-pro-bf200-azul-dobravel-7417496) por 155,99 euros.  
-Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70 euros.
 
 
 ---

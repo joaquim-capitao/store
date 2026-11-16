@@ -27,7 +27,7 @@
 ---
 ## Televisão
 
-![](https://pub-c38593a6a54c4592b36b762dfb18e232.r2.dev/TV1.jpg)
+![](https://i.ibb.co/ccBYp6G4/Whats-App-Image-2026-11-16-at-12-49-37.jpg)
 
 **Preço: 200 euros.**  
 

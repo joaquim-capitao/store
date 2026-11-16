@@ -4,7 +4,7 @@
 ---
 ## Máquina de costura portátil
 
-![](https://i.ibb.co/rKN3q159/IMG-20261116-111946.jpg)
+![](https://i.ibb.co/vCzCJCB1/IMG-20261116-111946-1.jpg)
 
 **Preço:**
 
@@ -12,14 +12,14 @@
 ---
 ## Mala em pele
 
-![](https://i.ibb.co/BKZtK1PC/IMG-20261116-112053.jpg)
+![](https://i.ibb.co/hFPMkdCs/IMG-20261116-112053-1.jpg)
 
 **Preço: 15 euros**
 
 ---
 ## Colunas para PC
 
-![](https://i.ibb.co/Jjtyfzwd/IMG-20261116-112104.jpg)
+![](https://i.ibb.co/QF7PPCTz/IMG-20261116-112104-1.jpg)
 
 **Preço: 5 euros**
 

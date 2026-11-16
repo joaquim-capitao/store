@@ -1,7 +1,7 @@
 ![](https://i.ibb.co/cX76SckQ/literatura.jpg)
 
 
-Todos os itens abaixo são usados e serão oferecidos a quem solicitar.
+Ofereço qualquer um dos itens abaixo a quem solicitar.
 
 ---
 

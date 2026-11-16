@@ -1,6 +1,5 @@
 
-![](https://i.ibb.co/QFnwNzqC/tralhas.jpg)
-
+![](https://i.ibb.co/4ZcLNGMG/tralhas.jpg)
 
 
 Para adquirir algum destes itens, pode contactar-me por telefone, whatsapp ou email.  

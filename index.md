@@ -75,7 +75,8 @@ Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70
 
 ![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
 
-**Preço: 25 euros**  
+**Preço: 25 euros**    
+(Garantia de 1 ano!)
 
 Epson XP-3205  
 Impressão, cópia e digitalização  
@@ -88,6 +89,7 @@ Inclui:
 1 tinteiro Ciano (Novo)  
 1 Tinteiro Amarelo (Novo)  
 1 Tinteiro Magenta (Novo)  
+
 
 
 ---

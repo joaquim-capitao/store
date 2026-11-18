@@ -13,6 +13,7 @@
 
 ---
 
+<!-- 
 ## Impressora EPSON
 
 ![](https://www.worten.pt/i/7be032dcdf385c794cdb57d7006dd292552c4b4a)
@@ -31,7 +32,7 @@ Inclui:
 1 tinteiro Ciano (Novo)  
 1 Tinteiro Amarelo (Novo)  
 1 Tinteiro Magenta (Novo)  
-
+-->
 
 ---
 ## Mala em pele

@@ -32,7 +32,6 @@ Inclui:
 1 tinteiro Ciano (Novo)  
 1 Tinteiro Amarelo (Novo)  
 1 Tinteiro Magenta (Novo)  
--->
 
 ---
 ## Mala em pele
@@ -40,6 +39,7 @@ Inclui:
 ![](https://i.ibb.co/hFPMkdCs/IMG-20261116-112053-1.jpg)
 
 **Preço: 15 euros**
+-->
 
 ---
 ## Colunas para PC

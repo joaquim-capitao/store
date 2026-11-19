@@ -13,7 +13,6 @@
 (À venda na [Worten](https://www.worten.pt/produtos/aspirador-de-agua-ufesa-ap8110-4351229) por 159,99 euros)
 -->
 
----
 
 <!-- 
 ## Impressora EPSON
@@ -50,7 +49,7 @@ Inclui:
 
 **Preço: 5 euros**
 
----
+<!--
 ## Televisão Toshiba (43" / 108 cm)
 
 ![](https://i.ibb.co/ccBYp6G4/Whats-App-Image-2026-11-16-at-12-49-37.jpg)
@@ -68,7 +67,7 @@ Ok Google
 A funcionar bem, sem riscos nem defeitos.  
 (Comprei na Radio Popular por 300 euros)  
 
----
+-->
 
 ## Sofá 
 

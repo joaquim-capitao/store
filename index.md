@@ -3,6 +3,7 @@
 
 ---
 
+<!--
 ## Aspirador UFESA
 
 ![](https://www.worten.pt/i/977591a9910447222479ac0632146ce9bd58fa54)
@@ -10,6 +11,7 @@
 **Preço: 80 euros**
 
 (À venda na [Worten](https://www.worten.pt/produtos/aspirador-de-agua-ufesa-ap8110-4351229) por 159,99 euros)
+-->
 
 ---
 
@@ -82,6 +84,7 @@ Dois lugares.
 
 ---  
 
+<!--
 ## Bicicleta Estática
 
 ![](https://www.worten.pt/i/1a5e90fe94dc3de866e3cf1a4b9f5025b2b98665)
@@ -90,6 +93,8 @@ Dois lugares.
 
 Está à venda na [Worten](https://www.worten.pt/produtos/bicicleta-estatica-prixton-comfort-pro-bf200-azul-dobravel-7417496) por 155,99 euros.  
 Como <u>o visor deixou de funcionar</u>, vendo por menos de metade do preço: 70 euros.
+
+-->
 
 ---
 

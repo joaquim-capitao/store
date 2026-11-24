@@ -18,10 +18,10 @@ Combustível: Gasolina
 Portas: 5  
 Lugares: 5  
 
-Inspecção feita. (Próxima só daqui a 2 anos)
-IUC pago este mês.
-Correia de distribução substituída em outubro.
-Óleo e filtros mudados aos 165.000
+Inspecção feita. (Próxima só daqui a 2 anos)  
+IUC pago este mês.  
+Correia de distribução substituída em outubro.  
+Óleo e filtros mudados aos 165.000  
 
 Extras:  
 Jantes especiais  

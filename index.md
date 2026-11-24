@@ -45,11 +45,6 @@ Dois lugares.
 
 
 
-Veja também [LITERATURA GRÁTIS](free).
-
-
-
-
 ---
 
 Para adquirir algum destes itens, pode contactar-me por telefone, whatsapp ou email.  

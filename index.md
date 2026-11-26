@@ -1,6 +1,3 @@
-
-![](https://i.ibb.co/8CBjsNn/9t.jpg)
-
 ## Automóvel
 
 ![](https://i.ibb.co/FbxXsMfW/IMG-20191011-145934.jpg)
